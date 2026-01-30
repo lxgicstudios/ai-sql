@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-sql.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-sql)
 [![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/ai-sql.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-sql)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-sql)](https://github.com/lxgic-studios/ai-sql/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered natural language to SQL converter. Just describe what you want.
 
