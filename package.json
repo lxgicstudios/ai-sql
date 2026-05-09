@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-sql",
   "version": "1.0.1",
-  "description": "Convert natural language to SQL queries using AI",
+  "description": "Convert natural language to SQL queries using AI - AI-powered sql tool with 2025 SEO optimization for developers.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -15,36 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "claude",
     "cli",
     "data-analysis",
     "database",
+    "developer-productivity",
     "developer-tools",
+    "discoverability",
+    "generative-ai",
     "gpt",
-    "llm",
-    "mysql",
-    "natural-language",
-    "openai",
-    "postgres",
-    "query",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
     "sql",
-    "text-to-sql",
-    "typescript",
-    "zero-config"
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-sql#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-sql#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-sql"
+    "url": "https://github.com/LXGIC-Studios/ai-sql"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-sql/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-sql/issues"
   },
   "funding": {
     "type": "github",
